@@ -8,12 +8,12 @@ conda activate EnviromentName
 ### If you are not using a Conda environment, download jupyter notebook using the following command
 pip install notebook
 
-###  Download required packages using the following command
+### Download required packages using the following command
 pip install sklearn imblearn seaborn numpy pandas matplotlib graphviz
 
-###  Open Jupyter Notebook using the following command
+### Open Jupyter Notebook using the following command
 jupyter notebook
 
-### Step 5: Open COSC2753_A1_S3818245.ipynb
+### Open COSC2753_A1_S3818245.ipynb
 
-### Step 6: Run the program by click Cell (on Navbar) > Run All
+### Run the program by click Cell (on Navbar) > Run All
